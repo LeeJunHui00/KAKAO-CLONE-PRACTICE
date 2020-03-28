@@ -15,11 +15,6 @@
   margin-left: 20px;
   cursor: pointer;
 }
-.header .header__icon {
-  font-size: 20px;
-  margin-left: 20px;
-  cursor: pointer;
-}
 
 .header .header__header-column {
   display: flex;
